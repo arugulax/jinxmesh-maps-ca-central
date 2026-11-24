@@ -1,0 +1,296 @@
+{
+ "name": "ontario",
+ "format": "JMVM 4",
+ "group": 44812,
+ "bytes": 924715923,
+ "pieces": [
+  {
+   "file": "ontario-1.jmv",
+   "bytes": 25206336,
+   "sha256": "f533677e97fbcc20b5a1bb152340a3c9a8ecf1eab207f2c3d2460717f9b5d707",
+   "south": 53.33087,
+   "west": -90.0,
+   "north": 56.873,
+   "east": -88.59375
+  },
+  {
+   "file": "ontario-2.jmv",
+   "bytes": 25224822,
+   "sha256": "8ac06a9797eb45a0280c091fa17ac2c9c389694e46a0265a166d96bfbc580008",
+   "south": 54.16243,
+   "west": -88.59375,
+   "north": 56.68037,
+   "east": -86.48438
+  },
+  {
+   "file": "ontario-3.jmv",
+   "bytes": 32496930,
+   "sha256": "930f0faf27d1196bf346073d93d69d8c1ebe8bf627a0fa58671a0e4d59c95104",
+   "south": 53.33087,
+   "west": -94.43848,
+   "north": 56.26776,
+   "east": -90.0
+  },
+  {
+   "file": "ontario-4.jmv",
+   "bytes": 27145415,
+   "sha256": "f8a76f483794a6334896e2103ab97c1c5a16afc1dc2165a507e300db82192d6a",
+   "south": 54.16243,
+   "west": -86.48438,
+   "north": 55.80128,
+   "east": -82.17773
+  },
+  {
+   "file": "ontario-5.jmv",
+   "bytes": 28572060,
+   "sha256": "583b9fd7be147f76601ee56de65f71208400715d1c0ecc7366d7a8c16253f7d7",
+   "south": 52.48278,
+   "west": -88.59375,
+   "north": 54.16243,
+   "east": -85.78125
+  },
+  {
+   "file": "ontario-6.jmv",
+   "bytes": 33702534,
+   "sha256": "59121f337ce66e8efb5c7f9757e99bda69d49c786a4a5de9811062706741a838",
+   "south": 52.48278,
+   "west": -85.78125,
+   "north": 54.16243,
+   "east": -81.60645
+  },
+  {
+   "file": "ontario-7.jmv",
+   "bytes": 27945109,
+   "sha256": "bbb2b63a75200dfa5facd7ffa41badf6d27ef1ab882c73cbad593a467454c84f",
+   "south": 51.61802,
+   "west": -95.22949,
+   "north": 53.33087,
+   "east": -92.8125
+  },
+  {
+   "file": "ontario-8.jmv",
+   "bytes": 27472202,
+   "sha256": "b4c8b4306b9e195f25157bba94f6dc043564d5b7ffb1f59ba3719bd6121c98ca",
+   "south": 51.61802,
+   "west": -92.8125,
+   "north": 53.33087,
+   "east": -88.59375
+  },
+  {
+   "file": "ontario-9.jmv",
+   "bytes": 28117728,
+   "sha256": "652b435433b912a5f06f585104fa29d8422ee31129825bb0d2c8e2d224f8edaf",
+   "south": 51.17934,
+   "west": -88.59375,
+   "north": 52.48278,
+   "east": -84.375
+  },
+  {
+   "file": "ontario-10.jmv",
+   "bytes": 26116721,
+   "sha256": "1857f45748ed05a3e58b76f891a22461c64633acfb0343afd5fc2be73ac61ee5",
+   "south": 49.38237,
+   "west": -84.375,
+   "north": 52.48278,
+   "east": -82.26562
+  },
+  {
+   "file": "ontario-11.jmv",
+   "bytes": 29773319,
+   "sha256": "374bf4f6eda73a47065b0e4bb21cd8ffd862af0c06551facab6dad946dffd890",
+   "south": 49.38237,
+   "west": -82.26562,
+   "north": 52.48278,
+   "east": -79.45312
+  },
+  {
+   "file": "ontario-12.jmv",
+   "bytes": 32822327,
+   "sha256": "45eaef6e90ed6cf2d08b8b9540043fb2091f04498cad526d5347e1ed023c5d76",
+   "south": 49.38237,
+   "west": -95.22949,
+   "north": 51.61802,
+   "east": -93.51562
+  },
+  {
+   "file": "ontario-13.jmv",
+   "bytes": 22207998,
+   "sha256": "2864af51571b227d775283f617db0b4e409ba5efb27a0810a7fa69be5ec420c0",
+   "south": 49.38237,
+   "west": -93.51562,
+   "north": 51.61802,
+   "east": -92.10938
+  },
+  {
+   "file": "ontario-14.jmv",
+   "bytes": 26670650,
+   "sha256": "1cd938dd51d7babbb1e1b2a0cd05eea38385191b561a556a0f908e50b1130c3b",
+   "south": 49.38237,
+   "west": -92.10938,
+   "north": 51.61802,
+   "east": -90.0
+  },
+  {
+   "file": "ontario-15.jmv",
+   "bytes": 19216401,
+   "sha256": "f641b4c0e21fb9cbe58dd88b06ee9c44ddb775e0b591b98cf81ae7c2e47ce453",
+   "south": 49.38237,
+   "west": -90.0,
+   "north": 51.61802,
+   "east": -88.59375
+  },
+  {
+   "file": "ontario-16.jmv",
+   "bytes": 34694888,
+   "sha256": "04f92319f1703e17e28baaf20660a11b17db0488944555e8d5ec6d6ad669d9ed",
+   "south": 49.38237,
+   "west": -88.59375,
+   "north": 51.17934,
+   "east": -84.375
+  },
+  {
+   "file": "ontario-17.jmv",
+   "bytes": 29212398,
+   "sha256": "3042395c536271012a4ee80edf8127f983b9acd92c1bf93319504862991550aa",
+   "south": 47.98992,
+   "west": -95.22949,
+   "north": 49.38237,
+   "east": -91.40625
+  },
+  {
+   "file": "ontario-18.jmv",
+   "bytes": 33294186,
+   "sha256": "64185c4272290079813e62b5599dacb9bd59d8eea10ccb8165e138cec55132a8",
+   "south": 47.93107,
+   "west": -91.40625,
+   "north": 49.38237,
+   "east": -88.59375
+  },
+  {
+   "file": "ontario-19.jmv",
+   "bytes": 38309390,
+   "sha256": "6cbde31c1f89ca845bb6cd18582265bc81ed8793a9671a12b125ee2973d9e419",
+   "south": 48.45835,
+   "west": -88.59375,
+   "north": 49.38237,
+   "east": -84.375
+  },
+  {
+   "file": "ontario-20.jmv",
+   "bytes": 25770697,
+   "sha256": "644fe839b2c5ea4fcd80cd2dc3910cf2651cc7a6587c88eeba5130e0831abb3c",
+   "south": 47.98992,
+   "west": -84.375,
+   "north": 49.38237,
+   "east": -81.5625
+  },
+  {
+   "file": "ontario-21.jmv",
+   "bytes": 28064359,
+   "sha256": "389f435f5b485de94f48248747ec380d802f80d69131e66e0ac84d316b8a6753",
+   "south": 47.04018,
+   "west": -81.5625,
+   "north": 49.38237,
+   "east": -80.15625
+  },
+  {
+   "file": "ontario-22.jmv",
+   "bytes": 24115494,
+   "sha256": "3266ba45105ac8265ed77dc655ef571d0b4d307367eee5860f33a3cf075cf70f",
+   "south": 45.58329,
+   "west": -80.15625,
+   "north": 49.38237,
+   "east": -79.45312
+  },
+  {
+   "file": "ontario-23.jmv",
+   "bytes": 25380608,
+   "sha256": "24032b44f796395d4129a60f31103b29731921adb25064752c6bda20ca28b554",
+   "south": 46.40756,
+   "west": -88.59375,
+   "north": 48.45835,
+   "east": -84.375
+  },
+  {
+   "file": "ontario-24.jmv",
+   "bytes": 33932186,
+   "sha256": "87a9a2e3f55abb60b995a639e69dbfad1f64589518cf98220633418a3644981d",
+   "south": 47.04018,
+   "west": -84.375,
+   "north": 47.98992,
+   "east": -81.5625
+  },
+  {
+   "file": "ontario-25.jmv",
+   "bytes": 30808364,
+   "sha256": "23bfda525e331510e95efe0dac8db8e47a8e20e700ba928721248aaef6ea7418",
+   "south": 45.58329,
+   "west": -79.45312,
+   "north": 47.33882,
+   "east": -74.31152
+  },
+  {
+   "file": "ontario-26.jmv",
+   "bytes": 28472360,
+   "sha256": "3a5db6ec72b37b32f18e045a69b33421147258804d9fc4528b95044dd743571b",
+   "south": 46.55886,
+   "west": -84.375,
+   "north": 47.04018,
+   "east": -81.5625
+  },
+  {
+   "file": "ontario-27.jmv",
+   "bytes": 23731194,
+   "sha256": "c820af600a3733ab65e905c7d9a217c5d37b0c85f4ad596043fb786932dff367",
+   "south": 45.58329,
+   "west": -81.5625,
+   "north": 47.04018,
+   "east": -80.15625
+  },
+  {
+   "file": "ontario-28.jmv",
+   "bytes": 28110018,
+   "sha256": "a29ef1dbc53f1d02919f530da3c312f35d300381bf1f2f9f8317147c64b1b8de",
+   "south": 41.60723,
+   "west": -84.375,
+   "north": 46.55886,
+   "east": -81.5625
+  },
+  {
+   "file": "ontario-29.jmv",
+   "bytes": 30733477,
+   "sha256": "9b8e4c685dedf0b88e13348e2ccf6076e8c335dad47adde7bc0c8c07d1feb943",
+   "south": 44.08759,
+   "west": -81.5625,
+   "north": 45.58329,
+   "east": -78.75
+  },
+  {
+   "file": "ontario-30.jmv",
+   "bytes": 30035101,
+   "sha256": "710615f7c846aa5532a4726c8cd45e15b82c4714fc09a75cf09e08eb7b5e2f26",
+   "south": 43.54855,
+   "west": -78.75,
+   "north": 45.58329,
+   "east": -77.34375
+  },
+  {
+   "file": "ontario-31.jmv",
+   "bytes": 29921423,
+   "sha256": "a266f0a5212d908ecd806348ab4a2837499f3f4fae3822276136d3bd56ab0410",
+   "south": 43.58039,
+   "west": -77.34375,
+   "north": 45.58329,
+   "east": -74.22363
+  },
+  {
+   "file": "ontario-32.jmv",
+   "bytes": 37439228,
+   "sha256": "86aae5451702bdb9c023c5cb02975db92f7e199e348babc4c2aeb45b5dc234f3",
+   "south": 42.00033,
+   "west": -81.5625,
+   "north": 44.08759,
+   "east": -78.75
+  }
+ ]
+}
