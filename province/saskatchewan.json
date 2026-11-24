@@ -1,0 +1,152 @@
+{
+ "name": "saskatchewan",
+ "format": "JMVM 4",
+ "group": 23112,
+ "bytes": 409895948,
+ "pieces": [
+  {
+   "file": "saskatchewan-1.jmv",
+   "bytes": 25876832,
+   "sha256": "de37c69aa05ef884b4235c415e52a150263daf19dcaf3e298481d81c28ee6a2a",
+   "south": 58.07788,
+   "west": -110.08301,
+   "north": 60.0429,
+   "east": -107.57812
+  },
+  {
+   "file": "saskatchewan-2.jmv",
+   "bytes": 22561520,
+   "sha256": "644616e190e38bae61b7e8e9ff49114b963e739d73ed755a42c3a6135445d71d",
+   "south": 58.07788,
+   "west": -107.57812,
+   "north": 60.0429,
+   "east": -106.17188
+  },
+  {
+   "file": "saskatchewan-3.jmv",
+   "bytes": 24845068,
+   "sha256": "46acdd21344ffab8424440d0488c59fbe81c1c5cb57e48ac50e3afc95ee9510d",
+   "south": 59.17593,
+   "west": -106.17188,
+   "north": 60.0429,
+   "east": -101.95312
+  },
+  {
+   "file": "saskatchewan-4.jmv",
+   "bytes": 30860594,
+   "sha256": "242e9903650f2d060f019a00bdeb838ad225614dbac2da09a943bc40a2a7d48a",
+   "south": 57.70415,
+   "west": -106.17188,
+   "north": 59.17593,
+   "east": -101.95312
+  },
+  {
+   "file": "saskatchewan-5.jmv",
+   "bytes": 22275957,
+   "sha256": "7133fd00fde9c5aec985c9fd307784ef62ba1f741f41033b705b1e2bd4c27d01",
+   "south": 55.77657,
+   "west": -110.03906,
+   "north": 58.07788,
+   "east": -107.57812
+  },
+  {
+   "file": "saskatchewan-6.jmv",
+   "bytes": 19690751,
+   "sha256": "9a3dabeecb43e547416f20a8623540dd12929adc670e30104be8df3cdddf404b",
+   "south": 55.77657,
+   "west": -107.57812,
+   "north": 58.07788,
+   "east": -106.17188
+  },
+  {
+   "file": "saskatchewan-7.jmv",
+   "bytes": 31552581,
+   "sha256": "360798839ab37d7eec4b624922305a014b9fc24fa16fc72cf4d68c2d8ae93ab5",
+   "south": 55.77657,
+   "west": -106.17188,
+   "north": 57.70415,
+   "east": -104.0625
+  },
+  {
+   "file": "saskatchewan-8.jmv",
+   "bytes": 22370823,
+   "sha256": "6d82368498246238a4dff6f883c7d90e218e1b9170f287147bd374438f3bf173",
+   "south": 55.77657,
+   "west": -104.0625,
+   "north": 57.70415,
+   "east": -101.90918
+  },
+  {
+   "file": "saskatchewan-9.jmv",
+   "bytes": 26075833,
+   "sha256": "17a7f034d6a9fef90d17421da384141c4bf4103b37d5d50d11dcedb4eeffeee4",
+   "south": 53.74871,
+   "west": -110.03906,
+   "north": 55.77657,
+   "east": -105.46875
+  },
+  {
+   "file": "saskatchewan-10.jmv",
+   "bytes": 25895335,
+   "sha256": "f50de3691f5b6c9b41c204d8361b67cff504d77ab29bcbde50682e478c6f28e1",
+   "south": 54.57206,
+   "west": -105.46875,
+   "north": 55.77657,
+   "east": -101.77734
+  },
+  {
+   "file": "saskatchewan-11.jmv",
+   "bytes": 22537835,
+   "sha256": "de6dcc3b88431dbcd1255d93c5e792e8a7ae876ac51ef027c73920323e5975a2",
+   "south": 52.05249,
+   "west": -105.46875,
+   "north": 54.57206,
+   "east": -101.55762
+  },
+  {
+   "file": "saskatchewan-12.jmv",
+   "bytes": 29225162,
+   "sha256": "5ca64885835135b31fada658743d6cfffa25583077170e245f9c6fc789d75c39",
+   "south": 52.05249,
+   "west": -110.03906,
+   "north": 53.74871,
+   "east": -105.46875
+  },
+  {
+   "file": "saskatchewan-13.jmv",
+   "bytes": 21123386,
+   "sha256": "0a71a51ce8488d966ef95e6eae40f1fb1197db8f1555c795912ffc1f18cfef42",
+   "south": 50.28934,
+   "west": -110.03906,
+   "north": 52.05249,
+   "east": -106.875
+  },
+  {
+   "file": "saskatchewan-14.jmv",
+   "bytes": 28410927,
+   "sha256": "6f123461a5f3e1e93397d2e070d5dc27302d30cf713f2902353000ef297eddd0",
+   "south": 48.95137,
+   "west": -106.875,
+   "north": 52.05249,
+   "east": -104.76562
+  },
+  {
+   "file": "saskatchewan-15.jmv",
+   "bytes": 28489738,
+   "sha256": "2b143daee50810d75ec8364618ba6f052326776b28ac0010a06dd0ecdac6e908",
+   "south": 48.95137,
+   "west": -104.76562,
+   "north": 52.05249,
+   "east": -101.29395
+  },
+  {
+   "file": "saskatchewan-16.jmv",
+   "bytes": 28103606,
+   "sha256": "b89bbe6ce594f6e249e647f70c6a8a997bce9d25a3557e3876bfe7ec97116a91",
+   "south": 48.95137,
+   "west": -110.08301,
+   "north": 50.28934,
+   "east": -106.875
+  }
+ ]
+}
