@@ -1,0 +1,80 @@
+{
+ "name": "manitoba",
+ "format": "JMVM 4",
+ "group": 9460,
+ "bytes": 271547966,
+ "pieces": [
+  {
+   "file": "manitoba-1.jmv",
+   "bytes": 31496351,
+   "sha256": "ea4ecd29af074ece1fc132e3fa946a764353930f539ce0f555fd3dda11630d54",
+   "south": 57.70415,
+   "west": -102.08496,
+   "north": 60.0429,
+   "east": -98.4375
+  },
+  {
+   "file": "manitoba-2.jmv",
+   "bytes": 32483507,
+   "sha256": "0783880ca0b3569df86971274c712bd25afeac2267a4d22583f921494930c120",
+   "south": 55.77657,
+   "west": -98.4375,
+   "north": 60.02095,
+   "east": -95.625
+  },
+  {
+   "file": "manitoba-3.jmv",
+   "bytes": 34612096,
+   "sha256": "759b9807273af086f23aea531abfbda0e2e28e30115a407bf496648e38e0fb5a",
+   "south": 55.77657,
+   "west": -95.625,
+   "north": 60.0429,
+   "east": -88.90137
+  },
+  {
+   "file": "manitoba-4.jmv",
+   "bytes": 36155403,
+   "sha256": "3b2ac62a609129e56dd7926f9f175eef0d832e3027fdc0d4785a418ab4d3842b",
+   "south": 55.77657,
+   "west": -102.08496,
+   "north": 57.70415,
+   "east": -98.4375
+  },
+  {
+   "file": "manitoba-5.jmv",
+   "bytes": 36123798,
+   "sha256": "5ae53e45f4f3e8c6fa67e257a304a59ff0341817f48914a04e6be61561918307",
+   "south": 52.05249,
+   "west": -102.04102,
+   "north": 55.77657,
+   "east": -97.73438
+  },
+  {
+   "file": "manitoba-6.jmv",
+   "bytes": 31580605,
+   "sha256": "6f0a3d3b966980c07d1d8575e020a19477a611f5f2124dc4359fb36162d4ae0c",
+   "south": 53.74871,
+   "west": -97.73438,
+   "north": 55.77657,
+   "east": -90.61523
+  },
+  {
+   "file": "manitoba-7.jmv",
+   "bytes": 35380821,
+   "sha256": "d293afe77bd6e85a65baebfbee4ab3928b53a63ed3d05de2c4764d62bb3f3606",
+   "south": 48.95137,
+   "west": -97.73438,
+   "north": 53.74871,
+   "east": -93.55957
+  },
+  {
+   "file": "manitoba-8.jmv",
+   "bytes": 33715385,
+   "sha256": "b32c0b85e3f0c718f3bb0af89fe90e538a520b26f6314b04db77fe45ecfab2d0",
+   "south": 48.95137,
+   "west": -101.68945,
+   "north": 52.05249,
+   "east": -97.73438
+  }
+ ]
+}
